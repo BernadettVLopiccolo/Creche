@@ -1,0 +1,11 @@
+h1 {
+	text-align: center;
+	color: #e8bf28;
+	margin: 300px;
+}
+
+body {
+	background-image: url("assets/images/Big-Dipper.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+}
