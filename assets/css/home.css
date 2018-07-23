@@ -1,25 +1,25 @@
 body {
      position: relative;
 }
- #section1 {
+ #sectionAbout {
     padding-top:50px;
     height:500px;
     color: #707266;
      background-color: #e0e4cc;
 }
- #section2 {
+ #sectionServices {
     padding-top:50px;
     height:500px;
     color: #707266;
      background-color: #b3b6a3;
 }
- #section3 {
+ #sectionAppointments {
     padding-top:50px;
     height:500px;
     color: #707266;
      background-color: #e0e4cc;
 }
- #section41 {
+/* #section41 {
     padding-top:50px;
     height:500px;
     color: #707266;
@@ -54,14 +54,21 @@ body {
     height:500px;
     color: #707266;
      background-color: #e0e4cc;
-}
- #section4 {
+}*/
+ #carouselExampleIndicators {
     padding-top:50px;
     height:500px;
     color: #707266;
      background-color: #b3b6a3;
 }
- #section5 {
+ #sectionLocation {
+    padding-top:50px;
+    height:500px;
+    color: #707266;
+     background-color: #b3b6a3;
+}
+
+#sectionSocial {
     padding-top:50px;
     height:500px;
     color: #707266;
