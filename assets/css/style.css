@@ -54,7 +54,7 @@ a {
     top: 0;
     left: 0;
     z-index: -1;
-    background-image: url("../images/Big-Dipper.jpg");
+    background-image: url("../images/nightSky.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     transform: scale(1.1);
