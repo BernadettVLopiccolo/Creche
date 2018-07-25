@@ -40,6 +40,12 @@ a {
   transform: translate3d(-50%, -50%, 0);
 }
 
+p {
+  font-family: 'Libre Baskerville', serif;
+  color: #e8bf28;
+  text-align: center;
+}
+
 .wrap {
   height: 100%;
   position: relative;
